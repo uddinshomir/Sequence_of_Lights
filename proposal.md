@@ -13,12 +13,14 @@ https://github.com/uddinshomir/Sequence_of_Lights/blob/master/Game_Page_Wirefram
 
 
 ## Initial thoughts on game structure
--I am not sure how I will randomize the tile the lights up. I am also how I will include the build of levels.Level 1 is where 1 tile glows up. Level 2 is where 2 light up and the user has to click both in the proper order.this gradual increase in tile lighting up  is something I am not sure how to implement right now. If I can I will increase the number of level required to win. I chose 5 since its a small testable number.The focus isn't the complexity of the game yet but getting the basics establish. The game is also a very scaleable game where more can always be add and things can vary. 
+I am not sure how I will randomize the tile the lights up. I am also how I will include the build of levels.Level 1 is where 1 tile glows up. Level 2 is where 2 light up and the user has to click both in the proper order.this gradual increase in tile lighting up  is something I am not sure how to implement right now. If I can I will increase the number of level required to win. I chose 5 since its a small testable number.The focus isn't the complexity of the game yet but getting the basics establish. The game is also a very scaleable game where more can always be add and things can vary. 
 
 Additional ideas-Different modes
             
 Crazy Mode - There is no order any number of tile can light up at any time.The speed of lighting will be set to fast mode possible, where user is able to see the light up but it will require heavy attention.
+
 Tile increase- Light up happens and # of tile increases as well.
+
 Complete randomness- Random number of tiles with random number of light ups with random number  of speed. 
 Infinite levels- No way to win. User just keeps going on score based on what level you got to is recorded. 
 
