@@ -15,7 +15,8 @@ I want to make this game because I played a similiar game for a while that the m
 it increased iq. I can't recall the name of the game however. 
 
 ##Wireframe
-
+https://github.com/uddinshomir/Sequence_of_Lights/blob/master/Pages_Wireframe.JPG
+https://github.com/uddinshomir/Sequence_of_Lights/blob/master/Game_Page_Wireframe.JPG
 
 
 ##Initial thoughts on game structure
