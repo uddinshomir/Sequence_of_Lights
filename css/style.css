@@ -1,0 +1,47 @@
+body {
+  width: 300px;
+  margin: auto;
+  background-image: url("http://answermandan.com/wp-content/uploads/Grey-website-background.png");
+  text-align: center;
+}
+
+.display-inline {
+  margin-top: 100px;
+  background-color:red;
+}
+
+#r1{
+  display:flex;
+  margin-top: 50px;
+}
+
+#r2{
+  display:flex;
+}
+
+#r3{
+  display:flex;
+}
+
+.box {
+  background-color: pink;
+  width:100px;
+  height:100px;
+  margin:3px;
+}
+
+.box-active {
+  background-color: white;
+}
+
+.start {
+  background-color:red;
+  width:150px;
+  height: 150px;
+  margin-top: 20px;
+  border-radius: 150px;
+  border:2px solid black;
+  text-align: center;
+  font-color:white;
+}
+
