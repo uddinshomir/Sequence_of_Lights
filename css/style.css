@@ -6,20 +6,26 @@ body {
 }
 
 .display-inline {
-  margin-top: 100px;
-  background-color:red;
+  font-family: 'PT Mono', monospace;
+  font-size: 30px;
+  height: 30px;
+  width: 300px;
+  background-color:#7FB285;
+  margin-top: 50px;
+  text-align: center;
+
 }
 
-#r1{
+#firstRow{
   display:flex;
   margin-top: 50px;
 }
 
-#r2{
+#secondRow{
   display:flex;
 }
 
-#r3{
+#thirdRow{
   display:flex;
 }
 
@@ -30,12 +36,14 @@ body {
   margin:3px;
 }
 
-.box-active {
+.boxActive {
   background-color: white;
 }
 
 .start {
-  background-color:red;
+  font-family: 'PT Mono', monospace;
+  font-size: 15px;
+  background-color:green;
   width:150px;
   height: 150px;
   margin-top: 20px;
