@@ -60,4 +60,11 @@ Infinite levels- No way to win. User just keeps going on score based on what lev
 
 ## Links and Resources
 
+http://uark.libguides.com/CSCE/CitingCode
+https://codepen.io/zentech/pen/XaYygR
+https://www.youtube.com/watch?v=9MTR3V2XpRI
+https://www.youtube.com/watch?v=iXscqYgZ7HQ
+
+
+
 
